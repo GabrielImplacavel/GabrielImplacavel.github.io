@@ -1,0 +1,364 @@
+header, .navbar {
+	background:#c0c0c0;
+}
+
+@media(max-width:990px){
+	.navbar-nav {
+		padding-left: 50%;
+	}
+	.d-flex {
+		padding-left:30%;
+	}
+}
+
+
+.logo{
+	padding-top: 1%;
+	padding-left: 1%;
+	padding-left: -2;
+	width: 30px;
+	height: 25pxs;
+}
+
+@media(min-width: 400px) {
+ .logo{
+	padding-top: 1%;
+	padding-left: 1%;
+	padding-left: -2;
+	width: 8vw;
+	height: 5vw;
+	}
+
+}
+@media(min-width: 769px) {
+
+
+}
+
+
+@media(min-width: 700px) {
+	.feedback{
+		float: left;
+		width: 100%;
+		min-height:275px;
+		background: #1c1c1c;
+		padding-top: 3%;
+		padding-left: 3%;
+		text-align: center;
+		border: 2px solid #4F4F4F;
+		margin: 0 0 28px;
+	}
+	.makingof{
+    float: left;
+    width: 100%;
+    height:275px;
+    background: #363636;
+    padding: 1%;
+    text-align: center;
+    border: 2px solid #4F4F4F;
+    margin: 0 0 28px;
+	}
+
+}
+@media(max-width: 769px) {
+	.feedback{
+		float: left;
+		width: 100%;
+		min-height:300px;
+		background: #1c1c1c;
+		padding-top: 3%;
+		padding-left: 3%;
+		text-align: center;
+		border: 2px solid #4F4F4F;
+		margin: 0 0 28px;
+	}
+	.makingof{
+    float: left;
+    width: 100%;
+    height: 275px;
+    background: #363636;
+    padding: 1%;
+    text-align: center;
+    border: 2px solid #4F4F4F;
+    margin: 0 0 28px;
+	}
+
+}
+
+.fa-bars{
+	color: black;
+	font-size: 22px;
+}
+
+main {
+	background:#363636;
+	padding-bottom: 30px;
+}
+
+a {
+	color:black;
+	font-size:16px;
+	font-weight: bolder;
+	margin-bottom: -10px;
+}
+
+p{
+	color: black;;
+	text-align:justify;
+	padding-right:5%;
+}
+
+b{
+	color: black;
+}
+
+strong{
+	color:#A9A9A9;
+}
+
+h1{
+	color:white;
+	text-align:left;
+	padding-top: 20px;
+	font-size: 20px;
+}
+h2{
+	text-align:left;
+	color:black;
+	font-size: 17px;
+	padding-top: 10px;
+
+}
+h3{
+	color:white;
+	padding: 10px 0;
+	font-size:16px;
+
+}
+h4{
+	color: black;
+	font-size:15px;
+	padding: 0;
+
+}
+h5{
+	font-size:14px;
+	color:white;
+	text-align:left;
+}
+h6{
+	font-size:13px;
+	color:white;
+	text-align:left;
+
+}
+li {
+	text-align: center;
+	margin-bottom: -1vw;
+}
+
+.card-title{
+	color: #1C1C1C;
+}
+
+.carousel{
+	margin-left: -50px;
+	
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: -1.75rem;
+    left: 55%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: black;
+    text-align: center;
+}
+.carousel-control-next {
+    right: -1%;
+	color: #1c1c1c;
+}
+
+.carousel-control-prev {
+    left: 3%;
+	color: #1c1c1c;
+}
+.carousel-control-next-icon{
+	width: 4vw;
+	height: 4vw;
+	color: #1c1c1c;
+}
+.carousel-control-prev-icon{
+	width: 4vw;
+	height: 4vw;
+	color: #1c1c1c;
+}
+.carousel-item {
+	height: 400px;
+}
+.carousel-indicators {
+	color: #1c1c1c;
+  }
+
+.dest{
+	height: 30vw;
+
+}
+
+.lancamento{
+	padding-top: 2vw;
+	background: white;
+}
+
+.destaque{
+	background: #c0c0c0;
+	margin-bottom: 30px;
+}
+.images{
+	width: 120px;
+    height: 150px;
+}
+.filmes{
+	padding-top: 30px;
+}
+.avaliacao{
+	background: white;
+}
+
+.avaliadores{
+	width:100px; 
+	height:70px; 
+	border-radius:100%; 
+
+}
+.names{
+	font-size:16px;
+}
+
+.interview{
+	background: #1C1C1C;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+
+.news{
+	background: #363636;
+}
+
+.novidades{
+	width: 100%;
+	height: 100%;
+}
+.cartao{
+	width: 100%;
+	background:  #c0c0c0;
+}
+.c1{
+	border-bottom:2px solid;
+	border-color: #363636;
+}
+.c3 {
+	border-top:2px solid;
+	border-color: #363636;
+}
+
+.editorial{
+	padding-top: 5%;
+}
+.icones{
+	width: 100%;
+	height: 100%;
+
+}
+.networks{
+	padding-top: 5%;
+}
+
+.rodape{
+	margin:10% 0;
+	width: 50px;
+	height: 35px;
+}
+
+.direitos{
+	padding-top:5%;
+	
+}
+
+.btext{
+	text-decoration-color: white;
+	font-size: 15px;
+	text-align: center;
+	line-height: 0.5;
+}
+.secao{
+	font-size:1.75vw;
+	color:black;
+	text-align: center;
+	padding-bottom: -10%;
+}
+.ava{
+	font-size:14px;
+}
+.transparent{
+	color:#363636;
+}
+
+.btn{
+	width: 100%;
+	height:30px;
+	font-size:15px;
+
+}
+
+.btn-outline-success1{
+	background-color:transparent;
+	border: none;
+
+}
+
+.more{
+	padding-top: 20px;
+}
+#making{
+	display: none
+}
+#showmore{
+	display: none
+}
+#showmore1{
+	display: none
+}
+
+.selec{
+	font-size: 15px;
+	padding: 0 3%;
+}
+.form-select {
+	margin-top:15px;
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    height: 30px;
+}
+.form-control{
+	width: 60%;
+	font-size: 14px;
+}
+
+.rating li{
+	font-size:16px;
+	padding: 0;
+	
+}
+.stars{
+	position: relative;
+	top: 5px;
+}
+.checked{
+	color: yellow;
+}
+.top-space{
+	padding: 3% 2%;
+}
